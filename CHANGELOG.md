@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- update flags for Afghanistan, France, Honduras and Mauritania (#455)
+
 ## [v4.1.0] - 2022-02-25
 ### Added
 - add Swedish translation (#398)
